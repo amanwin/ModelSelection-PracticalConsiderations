@@ -14,7 +14,7 @@ Let's look at the **business problem** that you are going to solve by applying d
 
 ![title](img/business-case.JPG)
 
-![title](img/business-case1.JPG)
+![title](img/business-case1.png)
 
 ![title](img/benefits.JPG)
 
